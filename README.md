@@ -1,1 +1,7 @@
-# Smruti-J.github.io
+# Data enthusiast 
+
+### Education 
+University of Liverpool 
+
+### Work Experience
+Blackmont Consulting
