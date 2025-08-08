@@ -4,8 +4,8 @@ show_downloads: true
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-hacker 
 #theme: jekyll-theme-leap_day
-theme: jekyll-theme-merlot
-#theme: jekyll-theme-midnight
+#theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
 #theme: jekyll-theme-modernist
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-tactile
