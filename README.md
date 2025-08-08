@@ -1,4 +1,4 @@
-# Data enthusiast 
+# Smruti Jagdale
 
 ### Education 
 University of Liverpool 
